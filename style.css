@@ -1,0 +1,34 @@
+        .page{
+            background-color: black;
+            border-style: solid; color: white; border-width: 10px;
+            color: white;
+        }
+        .navbar{
+            border: white 1px solid;
+            width: 600px;
+            height: 70px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .menuitem{
+            color: white;
+            display: block;
+            width: 100px;
+            text-align: center;
+        }
+
+        .menuitemli{
+            float: left;
+        }
+
+    
+
+        .smaller-image{
+            width: 240px;
+            height: 250px;
+        }
+
+        .title{
+            margin-left: 50px;
+        }
+
